@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15db344f-ca8c-401f-a17e-b7a60773615f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/classes/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/controller/AuthorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/dto/AuthorDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/dto/CourseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/mapper/AuthorMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/mapper/CourseMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/repository/AuthorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/service/AuthorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springTask2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springTask2/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/controller/CourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/implement/CourseRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/repository/CourseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/repository/CourseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/service/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springTask2/src/main/java/com/sumerge/spring/service/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springTask2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springTask2/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sumerge/spring3/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sumerge/spring3/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +70,7 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "task5-task69442",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/mkhedr/Desktop/Sumerge/Final Github Projects/STP-Spring-BackEnd/springTask2"
   }
