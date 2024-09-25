@@ -1,4 +1,4 @@
-package com.sumerge.spring;
+package com.sumerge.spring3;
 
 public class Course {
 

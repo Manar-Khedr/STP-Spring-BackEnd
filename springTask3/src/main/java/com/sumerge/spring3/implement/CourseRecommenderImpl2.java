@@ -1,14 +1,11 @@
-package com.sumerge.spring.implement;
+package com.sumerge.spring3.implement;
 
-import com.sumerge.spring.Course;
-import com.sumerge.spring.CourseRecommender;
-import org.springframework.context.annotation.Primary;
-import org.springframework.stereotype.Component;
+import com.sumerge.spring3.Course;
+import com.sumerge.spring3.CourseRecommender;
 
 import java.util.ArrayList;
 import java.util.List;
 
-@Component
 public class CourseRecommenderImpl2 implements CourseRecommender {
 
     @Override
